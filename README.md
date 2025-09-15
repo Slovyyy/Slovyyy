@@ -45,9 +45,7 @@ I seach for an Projekt
 </a>
 
 ### Servers
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tomcat" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="50" alt="Tomcat" />
 
 </div>
 
@@ -80,4 +78,3 @@ I seach for an Projekt
 ![Profile Views](https://komarev.com/ghpvc/?username=slovyyy&color=brightgreen&style=flat-square)
 
 </div>
-```
