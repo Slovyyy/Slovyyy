@@ -11,7 +11,7 @@
 <table>
 <tr>
 <td>
-I seach for an Projekt
+Buiing and plaining an Own ERP Software. I am just bored.
 </td>
 <td>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
